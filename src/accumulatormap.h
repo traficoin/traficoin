@@ -1,9 +1,9 @@
-// Copyright (c) 2017-2018 The PIVX developers
+// Copyright (c) 2017-2018 The TRAFICOIN developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef PIVX_ACCUMULATORMAP_H
-#define PIVX_ACCUMULATORMAP_H
+#ifndef TRAFICOIN_ACCUMULATORMAP_H
+#define TRAFICOIN_ACCUMULATORMAP_H
 
 #include "libzerocoin/Accumulator.h"
 #include "libzerocoin/Coin.h"
@@ -25,4 +25,4 @@ public:
     void Reset();
     void Reset(libzerocoin::ZerocoinParams* params2);
 };
-#endif //PIVX_ACCUMULATORMAP_H
+#endif //TRAFICOIN_ACCUMULATORMAP_H

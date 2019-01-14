@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TRAFICOIN
+Comment=TRAFICOIN P2P Cryptocurrency
+Comment[fr]=TRAFICOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TRAFICOIN, eşten eşe kriptografik sanal para birimi
+Exec=traficoin-qt %u
+Terminal=false
+Type=Application
+Icon=traficoin128
+MimeType=x-scheme-handler/traficoin;
+Categories=Office;Finance;
