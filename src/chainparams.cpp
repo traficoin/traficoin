@@ -349,7 +349,7 @@ public:
         nTargetTimespan = 24 * 60 * 60; // TRAFICOIN: 1 day
         nTargetSpacing = 1 * 60;        // TRAFICOIN: 1 minutes
         bnProofOfWorkLimit = ~uint256(0) >> 1;
-        genesis.nTime = 1454124731;
+        genesis.nTime = 1547500842;
         genesis.nBits = 0x207fffff;
         genesis.nNonce = 12345;
 
